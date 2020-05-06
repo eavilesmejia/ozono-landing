@@ -1,7 +1,7 @@
 @font-face {
     font-family: AvenirNext;
-    src: local(AvenirNext-Regular),
-    url(../font/AvenirNext-Regular.otf) format("truetype");
+    src: local(AvenirNextLTPro-Regular),
+    url(../font/AvenirNextLTPro-Regular.ttf) format("truetype");
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
